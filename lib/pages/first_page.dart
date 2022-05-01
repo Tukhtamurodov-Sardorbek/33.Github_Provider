@@ -151,7 +151,7 @@ class _HomePageState extends State<HomePage> {
                       viewModel
                           .findUser(context)
                           .timeout(const Duration(seconds: 5), onTimeout: () {
-                        print('Time out');
+
                         viewModel.onTimeOut(context);
                       });
                     },

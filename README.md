@@ -11,3 +11,7 @@
 |----------------|
 | ![Use Case](assets/readme/use_case.gif) |
 
+| Search Page | Search Page | Profile Page |
+|----------------|:----------------:|:----------------:|
+| ![Search Page](assets/readme/img_1.png) | ![Search Page](assets/readme/img_2.png) | ![Profile Page](assets/readme/img_3.png) |
+

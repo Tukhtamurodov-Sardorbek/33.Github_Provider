@@ -39,7 +39,6 @@ class Network{
     if(response.statusCode == 200){
       return response.body;
     }
-    print(response.statusCode);
     return response.statusCode;
   }
 

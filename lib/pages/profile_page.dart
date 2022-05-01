@@ -23,7 +23,6 @@ class _ProfilePageState extends State<ProfilePage> {
   void initState() {
     viewModel.loadPinnedRepos();
     super.initState();
-    print('INIT STATE: ${viewModel.pinnedRepositories.length}');
   }
 
   @override
