@@ -7,15 +7,11 @@
 - Extension (To convert String to Hex Color)
 
 
-| Use Case |
-|----------------|
-| ![Use Case](assets/readme/use_case.gif) |
-
-
-| Home Screen | Search Page |
+| Use Case | Home Screen |
 |----------------|:----------------:|
-| ![Home Screen](assets/readme/img.png) |  ![Search Page](assets/readme/img_1.png) |
+| ![Use Case](assets/readme/use_case.gif) | ![Home Screen](assets/readme/img.png) |
 
-| Search Page | Profile Page |
-|:----------------:|:----------------:|
-| ![Search Page](assets/readme/img_2.png) | ![Profile Page](assets/readme/img_3.png) |
+
+| Search Page | Search Page | Profile Page |
+|----------------:|:----------------:|:----------------:|
+| ![Search Page](assets/readme/img_1.png) |  ![Search Page](assets/readme/img_2.png) | ![Profile Page](assets/readme/img_3.png) |
