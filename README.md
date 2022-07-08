@@ -1,6 +1,5 @@
-# GitHub Profile Page
+# ```GitHub Profile Page```
 
-# ```Used```
 - Provider
 - Web Scrapping (To get the list of pinned repositories)
 - Github API
